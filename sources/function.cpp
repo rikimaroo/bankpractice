@@ -37,8 +37,8 @@ void help()
          << "getting loan  --->  (get_loan) username:ip:money" << endl
          << "pay the loan  --->  (pay_loan) username:money" << endl
          << "view 5recent transactions  --->  (report) username" << endl
-         << "print account information  --->  (username) or (ip) or (card number)" << endl
-         << "print bank information  --->  (bank)" << endl;
+         << "print account information  --->  (username) or (ip) or (card number)" << endl//dastor ra ba space vared konid 
+         << "print bank information  --->  (bank)" << endl;//dastor ra ba space vared konid 
          
 }
 
